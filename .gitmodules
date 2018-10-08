@@ -1,9 +1,1 @@
-[submodule "xio"]
-	path = xio
-	url = https://github.com/wrldwzrd89/lib-python3-xio
-[submodule "page"]
-	path = page
-	url = https://github.com/wrldwzrd89/lib-python3-page
-[submodule "llds"]
-	path = llds
-	url = https://github.com/wrldwzrd89/lib-python3-llds
+
